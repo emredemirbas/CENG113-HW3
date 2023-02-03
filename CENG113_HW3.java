@@ -9,7 +9,7 @@ Goals
 1. Calculate how many cells are filled with the hot lava for a given rock formation (as a 1D int array) in a valley.
 2. Write an int returning method called puddle in Java getting a one-dimensional int array.
 
-----------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 Example Run #1:
 Enter 10 numbers representing the rock formations in the valley:
@@ -40,7 +40,7 @@ Enter 10 numbers representing the rock formations in the valley:
 3 0 0 8 1 2 3 0 0 7
 There can be maximum observable amount of hot lava is (in cells): 35
 
-----------------------------------------------------------------------
+--------------------------------------------------------------------
 
 Figure 1:
 
@@ -56,7 +56,7 @@ R R L L R L R R L R
 R R R L R L R R R R
 R R R R R L R R R R
 
-----------------------------------------------------------------------
+--------------------------------------------------------------------
 
 Figure 2:
 
